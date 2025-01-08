@@ -1,7 +1,7 @@
 # freestresser
 
 <a href="https://starkstresser.su">
-  <img src="https://github.com/user-attachments/assets/80941ad4-f13b-4855-8911-30d113a8781b" width="800" />
+  <img src="https://github.com/user-attachments/assets/80941ad4-f13b-4855-8911-30d113a8781b" width="1200" height="300" />
 </a>
 
 Free Stesser: Test Your Website’s Performance for Free
